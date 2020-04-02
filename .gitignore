@@ -61,3 +61,5 @@ crashlytics-build.properties
 
 /Assets/salami/kikkailuskripti.cs
 /Assets/salami/kikkailuskripti.cs.meta
+/ProjectSettings/QualitySettings.asset
+/ProjectSettings/ProjectVersion.txt
